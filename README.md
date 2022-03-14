@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I am Manzim 👋
 
-<!--
-**manzim/manzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end Developer, Software Quality Assurance, Portfolio Designer & Developer 😊
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working a freelancer. 
+- 🌱 I’m currently learning React.js, JavaScript, VueJS, NextJS, CSS libraries & frameworks. 
+- 👯 I’m always ready to collaborate with other learners.
+- 💬 Ask me about how I can assist you with your project
+- ⚡ Fun fact: Playing Fantasy Premier League for almost 10yrs, still don't know why most studies game week points are lesser than the lesser studied ones. 
+
+### Reach me here: 
+
+
+### Statpadding
+![manzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=manzim&theme=material-palenight_icons=true)
+
+### Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
