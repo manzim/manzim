@@ -11,19 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Playing Fantasy Premier League for almost 10yrs, still don't know why most studies game week points are lesser than the lesser studied ones. 
 
 ### Reach me here: 
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://manzim-portfolio.herokuapp.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://manzim-portfolio.herokuapp.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmed-manzim-ridwan/" style="text-decoration: none" > <img align="left" alt="LinkedIN" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" /> </a>
+<a href="https://manzim-portfolio.herokuapp.com/" style="text-decoration: none" > <img align="left" alt="Website" width="26px" src="https://omniair.org/wp-content/uploads/2017/10/globe-1024x960.png" style="padding-right:10px;" />  </a>
+<a href="https://twitter.com/zodiac_geek" style="text-decoration: none" > <img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" style="padding-right:10px;" /> </a>
 
-[![website](./img/twitter-light.svg)](https://twitter.com/zodiac_geek#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://https://twitter.com/zodiac_geek#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-manzim-ridwan/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-manzim-ridwan/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<br />
+<br />
 
 ### Languages and Tools:
 
