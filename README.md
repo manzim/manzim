@@ -4,11 +4,11 @@ I'm a Front-end Developer, Software Quality Assurance, Portfolio Designer & Deve
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working a freelancer. 
-- 🌱 I’m currently learning React.js, JavaScript, VueJS, NextJS, CSS libraries & frameworks. 
+- 🔭 I’m currently working a freelancer, soon joining as a SQA (both Automation & Manual). 
+- 🌱 I’m currently learning SQA Automation (Cypress, Selenium), React.js, JavaScript, NextJS, CSS libraries & frameworks. 
 - 👯 I’m always ready to collaborate with other learners.
 - 💬 Ask me about how I can assist you with your project
-- ⚡ Fun fact: Playing Fantasy Premier League for almost 10yrs, still don't know why most studies game week points are lesser than the lesser studied ones. 
+- ⚡ Fun fact: Playing Fantasy Premier League for almost 10yrs, still don't know why most studied game week points are lesser than the lesser studied ones. 
 
 ### Reach me here: 
 
