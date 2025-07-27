@@ -1,52 +1,58 @@
-### Hi I am Manzim 👋
+### Hi, I'm Manzim 👋
 
-I'm a Software Quality Assurance, Portfolio Designer & Developer 😊
+🎓 MSc student in **Forest Information Technology** having a BSc in **Computer Science & Engineering**  
+💻 Former **Software QA Engineer** aspriring to be a **GeoData Analyst** oneday  
+🌍 Passionate about **software quality assurance**, **geospatial analysis**, **agroforestry**   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working as a SQA.
-- ⚡ Manual Testing, Smoke testing, Regression testing, Functional testing, Black Box, White Box, Sanity, Regression, and Alpha-Beta to test the Web APP, Postman, Playground
-- ⚡ React.js, JavaScript, Typescript, HTML, CSS3, Cypress (E2E), GraphQL, RESTful API, C, Python, Git, GitHub, Gitlab, Bash. 
-- 🌱 I’m currently learning SQA Automation (Cypress, Selenium), python. 
-- 👯 I’m always ready to collaborate with other learners.
-- 💬 Ask me about how I can assist you with your project
+### 🚀 What I Do
 
-### Reach me here: 
+- 🔬 Working as a student researcher at **ZALF**, Germany — writing papers, analyzing spatial data, scripting with Python/R  
+- 🌱 Learning & applying **GIS**, **remote sensing**, **data science**, and **forest informatics**
+- 🛠️ Experienced in QA, frontend development, and project documentation  
+- 🧠 Exploring sustainable tech, spatial modeling, and map-based storytelling  
 
-<a href="https://www.linkedin.com/in/ahmed-manzim-ridwan/" style="text-decoration: none" > <img align="left" alt="LinkedIN" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" /> 
+---
+
+### 💼 Tech & Tools I am familiar with
+
+**Languages & Analysis:**  
+`Python`, `R`, `SQL`, `JavaScript`, `HTML`, `CSS`, `Various software testings`
+
+**GIS & Remote Sensing:**  
+`ArcGIS Pro`, `QGIS`, `BWINPro-7`, `ArcMap 10.8`, `Drone Image Analysis`, `Landsat`
+
+**Tools & Platforms:**  
+`Git`, `GitHub`, `Postman`, `JIRA`, `Confluence`, `Trello`, `Photoshop`, `Canva`, `Microsoft 365`
+
+---
+
+### 📚 Featured Projects
+- 🔍 *Satellite Image Change Detection using K-Means Clustering*  
+- 🧭 *Accessibility Analysis of Healthcare in Berlin using Python & GTFS*  
+- 🌳 *Optimal Solar Panel Placement via GIS Suitability Modeling*  
+- 🔥 *California Wildfire Impact Assessment via Remote Sensing (2025)*  
+
+▶️ [See all projects](https://github.com/manzim?tab=repositories)
+
+---
+
+### 📬 Connect with Me
+
+<a href="https://www.linkedin.com/in/ahmed-manzim-ridwan/">
+  <img align="left" alt="LinkedIN" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="mailto:manzim.ridwan@gmail.com">
+  <img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />
 </a>
 
 <br />
 <br />
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="materialui" width="26px" src="https://mui.com/static/logo.png" style="padding-right:10px;" />
-<img align="left" alt="tachyons" width="26px" src="https://tomich.org/images/t-with-circle.svg" style="padding-right:10px;" />
-<img align="left" alt="blueprintjs" width="26px" src="https://blueprintjs.com/assets/fb-image.png" style="padding-right:10px;" />
+### 📊 GitHub Stats
 
-<br />
-<br />
-
-
-### Statpadding
-![manzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=manzim&theme=material-palenight_icons=true)
-
-### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[website]: https://manzim-portfolio.herokuapp.com/
-[twitter]: https://twitter.com/zodiac_geek
-[linkedin]: https://www.linkedin.com/in/ahmed-manzim-ridwan/
+![manzim's GitHub stats](https://github-readme-stats.vercel.app/api?username=manzim&theme=material-palenight&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manzim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
