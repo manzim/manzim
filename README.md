@@ -1,15 +1,15 @@
 ### Hi, I'm Manzim 👋
 
-🎓 MSc student in **Forest Information Technology** having a BSc in **Computer Science & Engineering**  
-💻 Former **Software QA Engineer** aspriring to be a **GeoData Analyst** oneday  
+🎓 MSc student in **Forest Information Technology** having a BSc in **Computer Science & Engineering**    
 🌍 Passionate about **software quality assurance**, **geospatial analysis**, **agroforestry**   
+💻 Former **Software QA Engineer**
 
 ---
 
 ### 🚀 What I Do
 
-- 🔬 Working as a student researcher at **ZALF**, Germany — writing papers, analyzing spatial data, scripting with Python/R  
-- 🌱 Learning & applying **GIS**, **remote sensing**, **data science**, and **forest informatics**
+- 🔬 Working as a student research assistant at **ZALF**, Germany — writing dessimination papers, writing sections for peer-reviewed articles, analyzing spatial data, scripting with Python/R  
+- 🌱 Learning & applying **GIS**, **remote sensing**, and **forest informatics**
 - 🛠️ Experienced in QA, frontend development, and project documentation  
 - 🧠 Exploring sustainable tech, spatial modeling, and map-based storytelling  
 
@@ -18,10 +18,10 @@
 ### 💼 Tech & Tools I am familiar with
 
 **Languages & Analysis:**  
-`Python`, `R`, `SQL`, `JavaScript`, `HTML`, `CSS`, `Various software testings`
+`Python`, `R`, `SQL`, `JavaScript`, `HTML`, `CSS`, `Various software testings tools`
 
 **GIS & Remote Sensing:**  
-`ArcGIS Pro`, `QGIS`, `BWINPro-7`, `ArcMap 10.8`, `Drone Image Analysis`, `Landsat`
+`ArcGIS Pro`, `QGIS`, `BWINPro-7`, `ArcMap 10.8`, `Drone Image Analysis`, `Satellite Image Analysis`
 
 **Tools & Platforms:**  
 `Git`, `GitHub`, `Postman`, `JIRA`, `Confluence`, `Trello`, `Photoshop`, `Canva`, `Microsoft 365`
