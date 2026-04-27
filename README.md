@@ -80,7 +80,10 @@
   <img align="left" alt="LinkedIN" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="mailto:manzim.ridwan@gmail.com">
-  <img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />
+  <img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/15047/15047587.png" />
+</a>
+<a href="https://drive.google.com/file/d/17EqV1glMGCi3CWVFOz7E394DC9YFuk3m/view?usp=sharing">
+  <img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/128/909/909212.png" />
 </a>
 
 <br />
