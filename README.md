@@ -1,6 +1,6 @@
 ### Hi, I'm Manzim 👋
 
-🎓 MSc in **Forest Information Technology** from *[Hochschule für Nachhaltige Entwicklung Eberswalde (HNEE)](www.hnee.de)* <br/>
+🎓 (ongoing) MSc in **Forest Information Technology** from *[Hochschule für Nachhaltige Entwicklung Eberswalde (HNEE)](www.hnee.de)* <br/>
 🎓 BSc in **Computer Science & Engineering** from *[Rajshahi University of Engineering & Technology (RUET)](www.ruet.ac.bd)* <br/>
 💻 Former **Software QA Engineer (5+ years)**  <br/>
 🌍 Working at the intersection of **Agroforestry**, **Software Quality Assurance**, and **Geospatial Analysis** 
@@ -30,7 +30,7 @@
 `Python` `R` `SQL` `JavaScript` `HTML` `CSS`  
 
 **QA & Development**  
-`Manual Testing` `Postman` `JIRA` `Confluence` `Agile/Scrum` `Frontend (React basics, UI improvements)`  
+`Manual Testing` `Postman` `JIRA` `Confluence` `Agile/Scrum` `Frontend (React basics, UI improvements)` `Cypress`  
 
 **GIS & Remote Sensing**  
 `ArcGIS Pro` `QGIS` `ArcMap 10.8` `QField` `BWINPro-7` `Satellite Image Analysis` `Drone Image Processing`  
