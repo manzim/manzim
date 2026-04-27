@@ -1,6 +1,6 @@
 ### Hi, I'm Manzim 👋
 
-🎓 (ongoing) MSc in **Forest Information Technology** from *[Hochschule für Nachhaltige Entwicklung Eberswalde (HNEE)](www.hnee.de)* <br/>
+🎓 (ongoing) MSc in **Forest Information Technology** from *[Hochschule für Nachhaltige Entwicklung Eberswalde (HNEE), Germany](www.hnee.de)* and *[Szkoła Główna Gospodarstwa Wiejskiego w Warszawie, Poland](https://www.sggw.edu.pl)* (part of Erasmus+ exchange program). <br/>
 🎓 BSc in **Computer Science & Engineering** from *[Rajshahi University of Engineering & Technology (RUET)](www.ruet.ac.bd)* <br/>
 💻 Former **Software QA Engineer (5+ years)**  <br/>
 🌍 Working at the intersection of **Agroforestry**, **Software Quality Assurance**, and **Geospatial Analysis** 
